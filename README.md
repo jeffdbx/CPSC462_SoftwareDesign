@@ -3,5 +3,5 @@ task delegation, all documentation/presentations, and UI design.  The majority o
 team members, and thus I have not listed it here on my personal git page.  This is more to show the work I did as
 the project manager.
 
-![Alt text](1.png?raw=true "Main page")
-![Alt text](2.png?raw=true "Manage page")
+![Alt text](1.png?raw=true "Screenshot 1")
+![Alt text](2.png?raw=true "Screenshot 2")
